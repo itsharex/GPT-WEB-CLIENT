@@ -26,12 +26,6 @@
 ![IMG_60D5DE670485-1](https://user-images.githubusercontent.com/43660702/232187172-9d971a97-b7a3-407f-9ba1-a35516505733.jpeg)
 
 
-
-## 关注公众号
-![关注公众号](https://user-images.githubusercontent.com/43660702/229270101-4f11a841-51fc-4625-b498-833629fe7934.png)
-
-
-
 [![Star History Chart](https://api.star-history.com/svg?repos=a616567126/GPT-WEB-JAVA&type=Timeline)](https://star-history.com/#a616567126/GPT-WEB-JAVA&Timeline)
 
 ## License
